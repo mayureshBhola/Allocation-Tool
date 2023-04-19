@@ -1,0 +1,28 @@
+
+
+Test 1:
+   Blank optional columns in First DF 
+Result: 
+   Worked as expected
+
+Test 2: 
+   Blank POV properties
+Result:
+   Worked as expected
+
+Test 3:
+   Blank Formula properties
+Result: 
+   Worked as expected
+
+Test 4:
+   Last two columns blank
+Result:
+   Worked as expected
+
+Test 5:
+  All optional columns blank
+Result:
+  Worked as expected               
+
+
